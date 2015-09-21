@@ -1,0 +1,7 @@
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\bin\Debug\GameStore.UnitTests.dll
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\bin\Debug\GameStore.UnitTests.pdb
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.dll
+C:\Users\Павел\Documents\SmartGit\GameStore\WebGameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.pdb
